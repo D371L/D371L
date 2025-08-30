@@ -14,5 +14,5 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="220"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzA5dzl1czRjZWQ3YWRsdHhndmlsMjA0amkwbW5vZXh4MndveDY5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5QRnXeoGo3POTv9tGX/giphy.gif" width="220"/>
 </p>
