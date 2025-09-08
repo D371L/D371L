@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/Hell-🔥-red?style=flat-square" height="25">
   <img src="https://img.shields.io/badge/Chaos-☠️-black?style=flat-square" height="25">
   <img src="https://img.shields.io/badge/Memento-Mori-darkred?style=flat-square" height="25">
+  <img src="https://img.shields.io/badge/Inferno-🔥-darkred?style=flat-square" height="25">
 </p>
 
 ---
@@ -68,11 +69,12 @@
 ### 📊 Stats from the Abyss  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=D371L&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D371L&layout=compact&theme=chartreuse-dark&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=D371L&show_icons=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&hide_border=true&count_private=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D371L&layout=compact&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&hide_border=true" height="165">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=D371L&theme=chartreuse-dark&hide_border=true" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=D371L&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideNums=FFFFFF&sideLabels=FF0000&dates=AAAAAA&hide_border=true" height="165">
 </p>
+
 
