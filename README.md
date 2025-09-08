@@ -74,7 +74,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=D371L&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideNums=FFFFFF&sideLabels=FF0000&dates=AAAAAA&hide_border=true" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=D371L&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FF0000&dates=AAAAAA&hide_border=true" height="165">
 </p>
+
+
 
 
