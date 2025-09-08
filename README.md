@@ -18,7 +18,7 @@
 
 ---
 
-### 🧰 Toolbox of Chaos  
+### ⛧ Infernal Arsenal  
 
 <table>
   <tr>
@@ -66,7 +66,7 @@
 
 ---
 
-### 📊 Stats from the Abyss  
+### ☠️ Damnation Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=D371L&show_icons=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&hide_border=true&count_private=true" height="165">
