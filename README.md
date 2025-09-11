@@ -1,10 +1,10 @@
 
 <h1 align="center">
-  <span style="color:#00FF00;">$ D371L</span>
+  <span style="color:#00FF00;">$ D371L⁶⁶⁶</span>
 </h1>
 
 <p align="center">
-  🔥 <b>Forged in Hell</b><br>
+  ψ <b>Forged in Hell</b><br>
         From the abyss we code<br>
         Into the system we burn
 </p>
@@ -18,7 +18,19 @@
 
 ---
 
-### ⛧ Infernal Arsenal  
+### ☠️ Manifesto
+<p align="left">
+I am the sum of my own trials. A self-taught developer, a self-made entrepreneur, a seeker of perfection. Everything I know I carved into myself in silence, in chaos, in fire.
+</p>
+
+### ⚔️ Infernal Experience
+<p align="left">
+I am the sum
+</p>
+
+### 📖 Dark Scriptures
+
+### ⛧ Cursed Techstack 
 
 <table>
   <tr>
@@ -66,7 +78,7 @@
 
 ---
 
-### ☠️ Damnation Stats  
+### 🩸 Damnation Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=D371L&show_icons=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&hide_border=true&count_private=true" height="165">
@@ -77,6 +89,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=D371L&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FF0000&dates=AAAAAA&hide_border=true" height="165">
 </p>
 
+### 🔥 Creations from the Abyss
 
 
 
