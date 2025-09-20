@@ -105,7 +105,24 @@ Each seal a proof of trial, each page a fragment of the abyss.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=D371L&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FF0000&dates=AAAAAA&hide_border=true" height="165">
 </p>
 
-### 🔥 Creations from the Abyss
+### 🔥 Creations from the Abyss  
+
+- 🛡 **[PumaLabs](https://github.com/Puma-Labs/)**  
+  My forge of code and fire. Security, research, creation.  
+  *Product Development · Web · Security*  
+
+- 🕸 **[VaadBot](https://vaadbot.com/)**  
+  A cursed SaaS forged to rule buildings and property management.  
+  *Mobile · Cloud · Security*  
+
+- 💳 **[Vaadbit](https://vaadbit.com/)**  
+  Digital wallet carved in shadows, bound to payments and control.  
+  *Fintech · Python · APIs*  
+
+- ⚽ **[CLNIF](https://github.com/D371L/clnif)**  
+  Champions League for Neighborhoods in Football.  
+  *Sports · NGO · Management*  
+
 
 
 
