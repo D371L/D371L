@@ -92,11 +92,12 @@ Each seal a proof of trial, each page a fragment of the abyss.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=D371L&show_icons=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&hide_border=true&count_private=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D371L&layout=compact&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&hide_border=true" height="165">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D371L&layout=compact&bg_color=000000&title_color=FF0000&text_color=FFFFFF&hide_border=true" height="165">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=D371L&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FF0000&dates=AAAAAA&hide_border=true" height="165">
+  <img src="https://github-readme-streak-stats.vercel.app?user=D371L&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FF0000&dates=AAAAAA&hide_border=true" height="165">
 </p>
 
 <p align="center">
