@@ -15,9 +15,7 @@
   <img src="https://img.shields.io/badge/Inferno-🔥-darkred?style=flat-square" height="25">
 </p>
 
-░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░
-
-### ☠️ Manifesto
+### ██▓▒░☠️ Manifesto 😈░▒▓██
 <p align="left">
 I am a self-made entrepreneur forged through years of relentless pursuit.
 As a developer I rose without masters, teaching myself every craft, every discipline, turning obstacles into fuel.
@@ -25,15 +23,11 @@ I have built and led countless projects, many bound to IT, each a spark that bec
 What I create is born from silence and pressure, shaped in chaos, carried forward with unbroken will, sealed in fire.
 </p>
 
-░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░
-
-### ⚔️ Infernal Experience
+### ██▓▒░⚔️ Infernal Experience 🔪░▒▓██
 Through years I have carried fire into code and projects.  
 Some were forged into lasting creations, others burned as trials, but each left its mark in me.
 
-░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░
-
-### 📖 Dark Scriptures  
+### ██▓▒░📖 Dark Scriptures 🔮░▒▓██  
 Marks I earned through fire, silence, and persistence.  
 Each seal a proof of trial, each page a fragment of the abyss.  
 
@@ -46,9 +40,7 @@ Each seal a proof of trial, each page a fragment of the abyss.
 - ☠️ ![IT Support Seal](https://img.shields.io/badge/Google-IT_Support_Seal-darkred?logo=google&logoColor=white)  
   *Issued Aug 21, 2021 — Foundation of systems, forged in troubleshooting, networking, and security.*  
 
-░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░
-
-### ⛧ Cursed Techstack 
+### ██▓▒░⛧ Cursed Techstack 💻░▒▓██  
 
 <table>
   <tr>
@@ -96,9 +88,7 @@ Each seal a proof of trial, each page a fragment of the abyss.
   </tr>
 </table>
 
-░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░
-
-### 🩸 Damnation Stats  
+### ██▓▒░🩸 Damnation Stats 📊░▒▓██ 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=D371L&show_icons=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&hide_border=true&count_private=true" height="165">
