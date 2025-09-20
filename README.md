@@ -1,4 +1,3 @@
-
 <h1 align="center">
   <span style="color:#00FF00;">$ D371L⁶⁶⁶</span>
 </h1>
@@ -16,7 +15,7 @@
   <img src="https://img.shields.io/badge/Inferno-🔥-darkred?style=flat-square" height="25">
 </p>
 
----
+░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░
 
 ### ☠️ Manifesto
 <p align="left">
@@ -26,10 +25,13 @@ I have built and led countless projects, many bound to IT, each a spark that bec
 What I create is born from silence and pressure, shaped in chaos, carried forward with unbroken will, sealed in fire.
 </p>
 
+░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░
+
 ### ⚔️ Infernal Experience
 Through years I have carried fire into code and projects.  
 Some were forged into lasting creations, others burned as trials, but each left its mark in me.
 
+░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░
 
 ### 📖 Dark Scriptures  
 Marks I earned through fire, silence, and persistence.  
@@ -43,7 +45,9 @@ Each seal a proof of trial, each page a fragment of the abyss.
 
 - ☠️ ![IT Support Seal](https://img.shields.io/badge/Google-IT_Support_Seal-darkred?logo=google&logoColor=white)  
   *Issued Aug 21, 2021 — Foundation of systems, forged in troubleshooting, networking, and security.*  
-  
+
+░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░
+
 ### ⛧ Cursed Techstack 
 
 <table>
@@ -92,7 +96,7 @@ Each seal a proof of trial, each page a fragment of the abyss.
   </tr>
 </table>
 
----
+░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░
 
 ### 🩸 Damnation Stats  
 
@@ -104,7 +108,3 @@ Each seal a proof of trial, each page a fragment of the abyss.
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=D371L&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FF0000&dates=AAAAAA&hide_border=true" height="165">
 </p>
-
-
-
-
