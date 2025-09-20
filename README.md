@@ -107,19 +107,19 @@ Each seal a proof of trial, each page a fragment of the abyss.
 
 ### 🔥 Creations from the Abyss  
 
-- 🛡 **[PumaLabs](https://github.com/Puma-Labs/)**  
+- 🛡 <a href="https://github.com/Puma-Labs/" target="_blank">**PumaLabs**</a>  
   My forge of code and fire. Security, research, creation.  
   *Product Development · Web · Security*  
 
-- 🕸 **[VaadBot](https://vaadbot.com/)**  
+- 🕸 <a href="https://vaadbot.com/" target="_blank">**VaadBot**</a>  
   A cursed SaaS forged to rule buildings and property management.  
   *Mobile · Cloud · Security*  
 
-- 💳 **[Vaadbit](https://vaadbit.com/)**  
+- 💳 <a href="https://vaadbit.com/" target="_blank">**Vaadbit**</a>  
   Digital wallet carved in shadows, bound to payments and control.  
   *Fintech · Python · APIs*  
 
-- ⚽ **[CLNIF](https://github.com/D371L/clnif)**  
+- ⚽ <a href="https://github.com/D371L/clnif" target="_blank">**CLNIF**</a>  
   Champions League for Neighborhoods in Football.  
   *Sports · NGO · Management*  
 
