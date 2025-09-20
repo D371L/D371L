@@ -5,8 +5,8 @@
 
 <p align="center">
   ψ <b>Forged in Hell</b><br>
-        From the abyss we code<br>
-        Into the system we burn
+  I walk unseen, I code unheard<br>
+  Yet fire marks my path
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 I am a self-made entrepreneur forged through years of relentless pursuit.
 As a developer I rose without masters, teaching myself every craft, every discipline, turning obstacles into fuel.
 I have built and led countless projects, many bound to IT, each a spark that became flame.
-What I create is born from silence and pressure, shaped in chaos, and carried forward with unbroken will.
+What I create is born from silence and pressure, shaped in chaos, carried forward with unbroken will, sealed in fire.
 </p>
 
 ### ⚔️ Infernal Experience
@@ -104,24 +104,6 @@ Each seal a proof of trial, each page a fragment of the abyss.
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=D371L&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FF0000&dates=AAAAAA&hide_border=true" height="165">
 </p>
-
-### 🔥 Creations from the Abyss  
-
-- 🛡 <a href="https://github.com/Puma-Labs/" target="_blank">**PumaLabs**</a>  
-  My forge of code and fire. Security, research, creation.  
-  *Product Development · Web · Security*  
-
-- 🕸 <a href="https://vaadbot.com/" target="_blank">**VaadBot**</a>  
-  A cursed SaaS forged to rule buildings and property management.  
-  *Mobile · Cloud · Security*  
-
-- 💳 <a href="https://vaadbit.com/" target="_blank">**Vaadbit**</a>  
-  Digital wallet carved in shadows, bound to payments and control.  
-  *Fintech · Python · APIs*  
-
-- ⚽ <a href="https://github.com/D371L/clnif" target="_blank">**CLNIF**</a>  
-  Champions League for Neighborhoods in Football.  
-  *Sports · NGO · Management*  
 
 
 
