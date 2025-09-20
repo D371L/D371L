@@ -20,16 +20,30 @@
 
 ### ☠️ Manifesto
 <p align="left">
-I am the sum of my own trials. A self-taught developer, a self-made entrepreneur, a seeker of perfection. Everything I know I carved into myself in silence, in chaos, in fire.
+I am a self-made entrepreneur forged through years of relentless pursuit.
+As a developer I rose without masters, teaching myself every craft, every discipline, turning obstacles into fuel.
+I have built and led countless projects, many bound to IT, each a spark that became flame.
+What I create is born from silence and pressure, shaped in chaos, and carried forward with unbroken will.
 </p>
 
 ### ⚔️ Infernal Experience
-<p align="left">
-I am the sum
-</p>
+Through years I have carried fire into code and projects.  
+Some were forged into lasting creations, others burned as trials, but each left its mark in me.
 
-### 📖 Dark Scriptures
 
+### 📖 Dark Scriptures  
+Marks I earned through fire, silence, and persistence.  
+Each seal a proof of trial, each page a fragment of the abyss.  
+
+- 🩸 ![Bachelor of Science](https://img.shields.io/badge/UoPeople-Bachelor_of_Science_in_Computer_Science-800000?logo=bookstack&logoColor=white)  
+  *Ongoing — A long path through code, theory, and relentless self-perfection.*  
+
+- 🔥 ![Cybersecurity Seal](https://img.shields.io/badge/Google-Cybersecurity_Seal-black?logo=google&logoColor=red)  
+  *Issued Sep 1, 2024 — Mark of fire and defense, carved in Python, Linux, SQL, SIEM and IDS.*  
+
+- ☠️ ![IT Support Seal](https://img.shields.io/badge/Google-IT_Support_Seal-darkred?logo=google&logoColor=white)  
+  *Issued Aug 21, 2021 — Foundation of systems, forged in troubleshooting, networking, and security.*  
+  
 ### ⛧ Cursed Techstack 
 
 <table>
@@ -41,15 +55,17 @@ I am the sum
   </tr>
   <tr>
     <td align="center">
-      <div style="display:flex; flex-wrap:wrap; justify-content:center;">
-        <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white">
-        <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
-      </div>
-    </td>
+  <div style="display:flex; flex-wrap:wrap; justify-content:center;">
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white">
+    <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white">
+    <img src="https://img.shields.io/badge/Bun-000000?logo=bun&logoColor=white">
+  </div>
+</td>
     <td align="center">
       <div style="display:flex; flex-wrap:wrap; justify-content:center;">
         <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black">
