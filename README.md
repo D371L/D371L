@@ -32,7 +32,7 @@ Marks I earned through fire, silence, and persistence.
 Each seal a proof of trial, each page a fragment of the abyss.  
 
 - 🩸 ![Bachelor of Science](https://img.shields.io/badge/UoPeople-Bachelor_of_Science_in_Computer_Science-800000?logo=bookstack&logoColor=white)  
-  *Ongoing — A long path through code, theory, and relentless self-perfection.*  
+  *Issued Jan 5, 2026 — A long path through code, theory, and relentless self-perfection.*  
 
 - 🔥 ![Cybersecurity Seal](https://img.shields.io/badge/Google-Cybersecurity_Seal-black?logo=google&logoColor=red)  
   *Issued Sep 1, 2024 — Mark of fire and defense, carved in Python, Linux, SQL, SIEM and IDS.*  
