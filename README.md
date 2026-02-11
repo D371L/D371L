@@ -4,8 +4,6 @@
 
 <p align="center">
   ψ <b>Forged in Hell</b><br>
-  I walk unseen, I code unheard<br>
-  Yet fire marks my path
 </p>
 
 <p align="center">
