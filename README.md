@@ -3,13 +3,9 @@
 </h1>
 
 <p align="center">
-  ψ <b>Forged in Hell</b><br>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Hell-🔥-red?style=flat-square" height="25">
+  <img src="https://img.shields.io/badge/Forged in Hell-🔱-darkred?style=flat-square" height="25">
   <img src="https://img.shields.io/badge/Chaos-☠️-black?style=flat-square" height="25">
-  <img src="https://img.shields.io/badge/Memento-Mori-darkred?style=flat-square" height="25">
+  <img src="https://img.shields.io/badge/Memento-Mori-purple?style=flat-square" height="25">
   <img src="https://img.shields.io/badge/Inferno-🔥-darkred?style=flat-square" height="25">
 </p>
 
