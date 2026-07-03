@@ -184,10 +184,10 @@ Connection established. Choose protocol:
 ```
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+  <a href="https://www.linkedin.com/in/444556494c/">
     <img src="https://img.shields.io/badge/LinkedIn-0d1117?logo=linkedin&logoColor=00FF41&style=for-the-badge">
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:D371L@pm.me">
     <img src="https://img.shields.io/badge/Email-0d1117?logo=gmail&logoColor=00FF41&style=for-the-badge">
   </a>
 </p>
