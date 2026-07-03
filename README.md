@@ -168,12 +168,12 @@ D371L@haifa:~$ htop --sort-key=COMMITS
 ```
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=D371L&show_icons=true&bg_color=0d1117&title_color=00FF41&text_color=FFFFFF&icon_color=FFB000&hide_border=true&count_private=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D371L&layout=compact&bg_color=0d1117&title_color=00FF41&text_color=FFFFFF&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=D371L&show_icons=true&bg_color=0d1117&title_color=00FF41&text_color=FFFFFF&icon_color=FFB000&hide_border=true&rank_icon=github&cache_seconds=86400" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D371L&layout=compact&bg_color=0d1117&title_color=00FF41&text_color=FFFFFF&hide_border=true&cache_seconds=86400" height="165">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app?user=D371L&background=0d1117&ring=00FF41&fire=FFB000&currStreakLabel=FFFFFF&currStreakNum=00FF41&sideNums=FFFFFF&sideLabels=00FF41&dates=AAAAAA&hide_border=true" height="165">
+  <img src="https://streak-stats.demolab.com?user=D371L&background=0d1117&ring=00FF41&fire=FFB000&currStreakLabel=FFFFFF&currStreakNum=00FF41&sideNums=FFFFFF&sideLabels=00FF41&dates=AAAAAA&hide_border=true" height="165">
 </p>
 
 ## 📡 ▓▒░ ESTABLISH CONNECTION ░▒▓
