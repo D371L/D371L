@@ -1,6 +1,6 @@
 <!-- Animated header: dark terminal gradient that matches the green theme -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:0d1117,80:0d2818,100:145a32&height=200&section=header&text=D371L&fontSize=72&fontColor=00FF41&fontAlignY=35&desc=Security%20Engineer%20%C2%B7%20Threat%20Intelligence%20%C2%B7%20AI-Augmented&descSize=17&descAlignY=58" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:0d1117,80:0d2818,100:145a32&height=200&section=header&text=D371L&fontSize=72&fontColor=00FF41&fontAlignY=35&desc=Full-Spectrum%20Engineer%20%C2%B7%20AI%20%C2%B7%20Security%20%C2%B7%20Cloud&descSize=17&descAlignY=58" width="100%">
 </p>
 
 <!-- Typing animation -->
@@ -28,9 +28,10 @@ D371L@haifa:~$ neofetch
   ██╔══██╗╚════██╗╚════██║███║██║        D371L @ haifa
   ██║  ██║ █████╔╝    ██╔╝╚██║██║        ─────────────────────────────
   ██║  ██║ ╚═══██╗   ██╔╝  ██║██║        OS........: Linux (daily driver)
-  ██████╔╝██████╔╝   ██║   ██║███████╗   Role......: Security Engineer
+  ██████╔╝██████╔╝   ██║   ██║███████╗   Role......: Full-Spectrum Engineer & Founder
   ╚═════╝ ╚═════╝    ╚═╝   ╚═╝╚══════╝   Uptime....: 10+ years building
-                                         Kernel....: Code × Security × AI
+                                         Kernel....: Code × AI × Security
+                                         Stack.....: Backend · Cloud · LLM Systems
                                          Degree....: B.Sc. CS · summa cum laude
                                          Research..: M.A. Counter-Terrorism & Intel
                                          Focus.....: Threat Intelligence · OSINT
@@ -184,10 +185,10 @@ Connection established. Choose protocol:
 ```
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/444556494c/">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
     <img src="https://img.shields.io/badge/LinkedIn-0d1117?logo=linkedin&logoColor=00FF41&style=for-the-badge">
   </a>
-  <a href="mailto:D371L@pm.me">
+  <a href="mailto:your@email.com">
     <img src="https://img.shields.io/badge/Email-0d1117?logo=gmail&logoColor=00FF41&style=for-the-badge">
   </a>
 </p>
