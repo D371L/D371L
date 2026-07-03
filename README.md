@@ -1,6 +1,6 @@
 <!-- Animated header: dark terminal gradient that matches the green theme -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:0d1117,80:0d2818,100:145a32&height=200&section=header&text=D371L&fontSize=72&fontColor=00FF41&fontAlignY=35&desc=Full-Spectrum%20Engineer%20%C2%B7%20AI%20%C2%B7%20Security%20%C2%B7%20Cloud&descSize=17&descAlignY=58" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:0d1117,80:0d2818,100:145a32&height=200&section=header&text=Vladimir-Berson&fontSize=72&fontColor=00FF41&fontAlignY=35&desc=Full-Spectrum%20Engineer%20%C2%B7%20AI%20%C2%B7%20Security%20%C2%B7%20Cloud&descSize=17&descAlignY=58" width="100%">
 </p>
 
 <!-- Typing animation -->
