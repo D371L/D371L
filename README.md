@@ -1,6 +1,6 @@
 <!-- Animated header: dark terminal gradient that matches the green theme -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:0d1117,80:0d2818,100:145a32&height=200&section=header&text=Vladimir-Berson&fontSize=72&fontColor=00FF41&fontAlignY=35&desc=Full-Spectrum%20Engineer%20%C2%B7%20AI%20%C2%B7%20Security%20%C2%B7%20Cloud&descSize=17&descAlignY=58" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:0d1117,80:0d2818,100:145a32&height=200&section=header&text=Vladimir%20Berson&fontSize=58&fontColor=00FF41&fontAlignY=35&desc=Full-Spectrum%20Engineer%20%C2%B7%20AI%20%C2%B7%20Security%20%C2%B7%20Cloud&descSize=17&descAlignY=58" width="100%">
 </p>
 
 <!-- Typing animation -->
@@ -22,35 +22,41 @@
 ## 🖥️ ▓▒░ SYSTEM BOOT ░▒▓
 
 ```console
-D371L@haifa:~$ neofetch
+berson@haifa:~$ neofetch
 
-  ██████╗ ██████╗ ███████╗ ██╗██╗
-  ██╔══██╗╚════██╗╚════██║███║██║        D371L @ haifa
-  ██║  ██║ █████╔╝    ██╔╝╚██║██║        ─────────────────────────────
-  ██║  ██║ ╚═══██╗   ██╔╝  ██║██║        OS........: Linux (daily driver)
-  ██████╔╝██████╔╝   ██║   ██║███████╗   Role......: Full-Spectrum Engineer & Founder
-  ╚═════╝ ╚═════╝    ╚═╝   ╚═╝╚══════╝   Uptime....: 10+ years building
-                                         Kernel....: Code × AI × Security
-                                         Stack.....: Backend · Cloud · LLM Systems
-                                         Degree....: B.Sc. CS · summa cum laude
-                                         Research..: M.A. Counter-Terrorism & Intel
-                                         Focus.....: Threat Intelligence · OSINT
-                                         Shell.....: self-taught, no shortcuts
-                                         Location..: Haifa, IL
+  ██████╗ ███████╗██████╗ ███████╗ ██████╗ ███╗   ██╗
+  ██╔══██╗██╔════╝██╔══██╗██╔════╝██╔═══██╗████╗  ██║
+  ██████╔╝█████╗  ██████╔╝███████╗██║   ██║██╔██╗ ██║
+  ██╔══██╗██╔══╝  ██╔══██╗╚════██║██║   ██║██║╚██╗██║
+  ██████╔╝███████╗██║  ██║███████║╚██████╔╝██║ ╚████║
+  ╚═════╝ ╚══════╝╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═╝  ╚═══╝
 
-D371L@haifa:~$ cat mission.txt
+  Vladimir Berson @ haifa
+  ─────────────────────────────────────
+  OS........: Linux (daily driver)
+  Role......: Full-Spectrum Engineer & Founder
+  Uptime....: 10+ years building
+  Kernel....: Code × AI × Security
+  Stack.....: Backend · Cloud · LLM Systems
+  Degree....: B.Sc. CS · summa cum laude
+  Research..: M.A. Counter-Terrorism & Intel
+  Focus.....: Threat Intelligence · OSINT
+  Shell.....: self-taught, no shortcuts
+  Location..: Haifa, IL
+
+berson@haifa:~$ cat mission.txt
 Technology that keeps people safe.
 Obstacles were the curriculum. Pressure was the forge.
 LLMs run through everything I build — not a tool I use,
 a layer I engineer with.
 
-D371L@haifa:~$ █
+berson@haifa:~$ █
 ```
 
 ## ⚔️ ▓▒░ BATTLE RECORD ░▒▓
 
 ```console
-D371L@haifa:~$ ls -la ~/achievements/ --sort=time
+berson@haifa:~$ ls -la ~/achievements/ --sort=time
 ```
 
 | | | |
@@ -63,7 +69,7 @@ D371L@haifa:~$ ls -la ~/achievements/ --sort=time
 ## 💼 ▓▒░ SELECTED OPERATIONS ░▒▓
 
 ```console
-D371L@haifa:~$ docker ps --filter "status=running"
+berson@haifa:~$ docker ps --filter "status=running"
 ```
 
 <table>
@@ -104,7 +110,7 @@ Open-source intelligence tooling and research at the intersection of technology 
 ## 🧰 ▓▒░ ARSENAL ░▒▓
 
 ```console
-D371L@haifa:~$ apt list --installed | grep -E "ai|lang|sec|infra"
+berson@haifa:~$ apt list --installed | grep -E "ai|lang|sec|infra"
 ```
 
 <div align="center">
@@ -165,7 +171,7 @@ D371L@haifa:~$ apt list --installed | grep -E "ai|lang|sec|infra"
 ## 📊 ▓▒░ TELEMETRY ░▒▓
 
 ```console
-D371L@haifa:~$ htop --sort-key=COMMITS
+berson@haifa:~$ htop --sort-key=COMMITS
 ```
 
 <p align="center">
@@ -180,15 +186,15 @@ D371L@haifa:~$ htop --sort-key=COMMITS
 ## 📡 ▓▒░ ESTABLISH CONNECTION ░▒▓
 
 ```console
-D371L@haifa:~$ ssh guest@D371L --open-channel
+berson@haifa:~$ ssh guest@berson --open-channel
 Connection established. Choose protocol:
 ```
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+  <a href="https://www.linkedin.com/in/vladimir-berson/">
     <img src="https://img.shields.io/badge/LinkedIn-0d1117?logo=linkedin&logoColor=00FF41&style=for-the-badge">
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:D371L@pm.me">
     <img src="https://img.shields.io/badge/Email-0d1117?logo=gmail&logoColor=00FF41&style=for-the-badge">
   </a>
 </p>
